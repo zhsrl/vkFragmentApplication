@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VKnew</string>
+    <string name="title_home">Новости</string>
+    <string name="title_favourite">Избранное</string>
+</resources>
